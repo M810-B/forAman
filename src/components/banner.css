@@ -1,0 +1,14 @@
+.bannerContainer{
+    
+}
+
+.bannerimg{
+    width: 98.9vw;
+    position: absolute;
+    left:0;
+    opacity: 1;
+}
+
+.text{
+    z-index:2;
+}
